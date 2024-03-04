@@ -1,0 +1,15 @@
+.container-lista-suspensa{
+    width: 100%;
+    margin-top: 1rem;
+}
+
+.opcao-selecione{
+    user-select: none;
+}
+
+.container-lista-suspensa label{
+    margin: 0.5em 0;
+    display: block;
+    font-weight: 700;
+    font-size: 1.2rem;
+}

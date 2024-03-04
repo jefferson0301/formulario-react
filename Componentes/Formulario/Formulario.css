@@ -1,0 +1,11 @@
+.card-formulario{
+    margin: 5% 25%;
+}
+
+.card-formulario form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
+}

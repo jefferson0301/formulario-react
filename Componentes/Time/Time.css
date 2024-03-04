@@ -1,0 +1,18 @@
+.containerTime{
+    text-align: center;
+    padding: 2em;
+}
+
+.containerTime h2{
+    font-size: 2em;
+    border-bottom: 3px solid;
+    display: inline-block;
+    
+}
+
+.lista-colaboradores{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}

@@ -1,0 +1,14 @@
+.card-imput-text{
+    width: 100%;
+}
+
+.card-imput-text label{
+    margin: 0.5em 0;
+    display: block;
+    font-weight: 700;
+    font-size: 1.2rem;
+}
+.card-imput-text input{
+    width: 100%;
+    box-sizing: border-box;
+}
